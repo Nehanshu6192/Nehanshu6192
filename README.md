@@ -1,6 +1,6 @@
 ### Hi there, I am Nehanshu Nirbhay 👋
 
-I am a Self-Taught Machine Learning Engineer.
+    I am a Self-Taught Machine Learning Engineer.
 🔭 I'm currently looking for Data Engineer/ Data Analyst Role.
 🌱 I’m currently learning Machine Learning in finanace domain.
 👯 I’m looking to collaborate on to create awesome projects. 
