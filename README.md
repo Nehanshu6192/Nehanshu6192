@@ -8,6 +8,7 @@
 📫 How to reach me: 
  gmail: nehanshu.sharma@gmail.com
  linkedin: https://www.linkedin.com/in/nehanshu-nirbhay-9065b885/
+ /header.png
 
 <!--
 **Nehanshu6192/Nehanshu6192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
