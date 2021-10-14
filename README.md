@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning Machine Learning in finanace domain.
 - 👯 I’m looking to collaborate on to create awesome projects. 
 - 🥅 I’m looking to help with contributing more to Open Source projects.
-- 📫 How to reach me: gmail: nehanshu.sharma@gmail.com
-                       Linkedin: https://www.linkedin.com/in/nehanshu-nirbhay-9065b885/
+- 📫 And I play Chess
  /header.png
 -----------------------------------------------------------------------------
 <!--
