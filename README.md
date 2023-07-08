@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center"> Self-Taught Machine Learning Engineer 👨‍💻 Open for Work 🚀</div>  
+### <div align="center"> Data Analyst 📊 @Z1 Tech | Excel | SQL | Spreadsheets | Power BI | Python | Storytelling with Data 🚀</div>  
  <hr/> 
 
-- 🔭 I'm currently looking for Data Engineer/ Data Analyst Role.
+- 🔭 I'm currently Working as Data Analyst at Z1 Tech.
 - 🌱 I’m currently learning Machine Learning in the finance domain.
 - 👯 I’m looking to collaborate to create awesome projects. 
 - 🥅 I’m looking to help with contributing more to Open Source projects.
-- ⚡ Fun fact: I am also into Fitness and Chess  
+- ⚡ Fun fact: I am also into Fitness and Chess.
   
 
 <br/>  
@@ -26,7 +26,6 @@
 <img style="margin: 10px" src="https://images.app.goo.gl/yitjjKSAnTtS7XsC8" alt="Jupyter" height="50" /> 
 <img style="margin: 10px" src="i.imgur.com/SUxYIXm.png" alt="anaconda" height="50" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
