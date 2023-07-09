@@ -23,14 +23,14 @@
 
 ### Languages & Tools  
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="50" /> 
 <img style="margin: 10px" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" height="50" /> 
 <img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" alt="MS Excel" height="50" /> 
 <img style="margin: 10px" src="https://www.computerhope.com/jargon/g/google-sheets.png" alt="Google Sheet" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="i.imgur.com/6HTssDd.png" alt="Django" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>
 
 </td></tr></table>  
@@ -59,7 +59,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCBiwB38AdH_9DQIlux1v0-Q" target="_blank">
-<img src=https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>  
   
